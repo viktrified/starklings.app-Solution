@@ -2,6 +2,9 @@
 
 ## Exercises
 
+- ### [Intro 1](https://github.com/GideonBature/starklings_app-solutions/blob/main/options_1.cairo)
+    Having trouble to solve this one? Click 'GET HINT' button for help!
+
 - ### [Options 1](https://github.com/GideonBature/starklings_app-solutions/blob/main/options_1.cairo)
     Having trouble to solve this one? Click 'GET HINT' button for help!
 
